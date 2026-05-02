@@ -15,4 +15,4 @@ If you do not have a Google account, you will need to create one (this can be de
 `%cd /content/drive/MyDrive`  
 `!git clone https://github.com/annaithoma/psybsc14.git`
 
-6. Go back to your Google Drive and navigate to the folder "psybsc14" (the one you just created, not the public one for the entire seminar). You should see the relevant notebooks (`.ipynb` files, which are Python notebooks that contain all necessary code) and data (it may take a couple of minutes for the files to appear). You are now ready to work through the exercises in the course!
+6. Go back to your Google Drive and navigate to the folder "psybsc14" (the one you just created, not the public one for the entire seminar). You should see the relevant notebooks (`.ipynb` files, which are Python notebooks that contain all necessary code) and data (it may take a couple of minutes for the files to appear). You are now ready to work through the exercises in the course! Open the file `rl_model_fitting.ipynb` as follows: click on the three dots next to the file in your drive folder --> open with --> google colaboratory
